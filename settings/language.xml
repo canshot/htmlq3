@@ -49,8 +49,8 @@
   <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
 
   <!-- welcome screen (leave blank to skip screen) -->
-  <item id="welcomeHead">Welcome!</item>
-  <item id="welcomeText">Please note: This is just a demo and no data will be stored. Thanks to Job van Exel, that we can use his survey as an example.{br}{br}Comments and bug reports are highly welcome.{br}{br}Please click on the continue-button.</item>
+  <item id="welcomeHead">Welcome to Gamification User Study!</item>
+  <item id="welcomeText">Comments and bug reports are highly welcome. Please email to jlim13@uncc.edu{br}{br}Click on the continue-button.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
@@ -62,7 +62,7 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introduction</item>
-  <item id="introText">This study is about travel behaviour. We are interested in your attitude towards car and public transport as travel alternatives for middle-distance trips.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
+  <item id="introText">This study is about gamification user type. We are interested in your attitude towards gamification systems.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>

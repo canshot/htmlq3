@@ -88,7 +88,7 @@
   <item id="transferHead">Submit Data</item>
   <item id="transferText">You've finished the survey. Please submit your data now.</item>
   <item id="transferFailed">Data submission failed. Please try again or mail your results via email/post.</item>
-  <item id="transferOk">Thank you for unsing FlashQ. We would appreciate if you could send us feeddback about this application (bugs, ideas, suggestion, etc.).{br}{br}Christian Hackert{br}{a href="http://www.hackert.biz/flashq" target="_blank"}{u}www.hackert.biz/flashq{/u}{/a}.{br}{br}You can now close your browser window.</item>
+  <item id="transferOk">Thank you for participating the survey.{br}{br} AMT survey code: apple7730 {br}{br}You can now close your browser window.</item>
 
   <!-- send data via mail, only displayed if submitUrl is blank (see config-file) -->
   <item id="mailHead">Submit Data</item>

@@ -47,8 +47,8 @@
       <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
       <item id="form">
 
-         <label>First name that you have typed in the first survey*</label>
-         <note>Please enter your first name.</note>
+         <label>Your first name*</label>
+         <note>Please enter your first name that you have typed in the first survey.</note>
          <input type="text" required="true"></input>
          
          <label>Any comments</label>

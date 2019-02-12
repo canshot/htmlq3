@@ -62,7 +62,7 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introduction</item>
-  <item id="introText">This study is about mobile fitness app usage. {br}{br}We are interested in your attitude towards mobile fitness app elements.{br}{br}Please maximize your browser window and click on the continue-button to start the survey.</item>
+  <item id="introText">This study is about mobile fitness app usage.{br}{br}We are interested in your attitude towards mobile fitness app elements.{br}{br}In the following pages, you will see the cards containing statements about your preference to mobile app elements. {br}{br} Please maximize your browser window and click on the continue-button to start the survey.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Step 1 of 5</item>

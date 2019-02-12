@@ -47,7 +47,11 @@
       <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
       <item id="form">
 
-         <label>Comments</label>
+         <label>First name that you have typed in the first survey*</label>
+         <note>Please enter your first name.</note>
+         <input type="text" required="true"></input>
+         
+         <label>Any comments</label>
          <input type="textarea" required="false"></input>
 
       </item>

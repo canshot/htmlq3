@@ -82,7 +82,7 @@
 
   <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
   <item id="step5Head">Step 5 of 5</item>
-  <item id="step5Text">Finally, please answer the following questions regarding your background.{br}{br}</item>
+  <item id="step5Text">Finally, please answer the following questions.{br}{br}</item>
 
   <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
   <item id="transferHead">Submit Data</item>

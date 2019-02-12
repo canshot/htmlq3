@@ -86,7 +86,7 @@
 
   <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
   <item id="transferHead">Submit Data</item>
-  <item id="transferText">You've finished the survey. Please submit your data now.</item>
+  <item id="transferText">In order to finish the survey, please submit your data by clicking the button below.</item>
   <item id="transferFailed">Data submission failed. Please try again or mail your results via email/post.</item>
   <item id="transferOk">Thank you for participating the survey.{br}{br} AMT survey code: apple7730 {br}{br}You can now close your browser window.</item>
 

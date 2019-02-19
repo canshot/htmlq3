@@ -50,7 +50,7 @@
 
   <!-- welcome screen (leave blank to skip screen) -->
   <item id="welcomeHead">Welcome to Mobile Fitness App Study!</item>
-  <item id="welcomeText">For the survey, you are expected to read each sentence carefully. If you don't follow the instruction, your reward will not be provided.{br}{br}You are recommended to use a desk top computer, not mobile devices.{br}{br}Comments and bug reports are welcome at retest11242018@gmail.com{br}{br}Click on the continue button.</item>
+  <item id="welcomeText"><font color = "red">For the survey, you are expected to read each sentence carefully.</font> If you don't follow the instruction, your reward will not be provided.{br}{br}You are recommended to use a desk top computer, not mobile devices.{br}{br}Comments and bug reports are welcome at retest11242018@gmail.com{br}{br}Click on the continue button.</item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
